@@ -1,0 +1,3 @@
+flex scaner.lex
+gcc lex.yy.c
+./a.out</home/qwe/snl/例子/c1.txt
